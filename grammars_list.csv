@@ -1,0 +1,815 @@
+link,description,level
+https://jlptsensei.com/learn-japanese-grammar/%e6%95%a2%e3%81%88%e3%81%a6-%e3%81%82%e3%81%88%e3%81%a6-aete-meaning/,敢えて（あえて）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%92%e3%81%8f-ageku-meaning/,あげく,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%8a%e3%81%92%e3%82%8b-ageru-meaning/,上げる（あげる）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e9%96%93-aida-meaning/,間（あいだ）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e9%96%93%e3%81%ab-aida-ni-meaning/,間に（あいだに）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%8f%e3%81%be%e3%81%a7%e3%82%82-akumade-mo-meaning/,あくまでも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%be%e3%82%8a-amari-meaning/,あまり,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab%e3%82%82-amari-ni-mo-meaning/,あまりにも,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%be%e3%82%8a%ef%bd%9e%e3%81%aa%e3%81%84-amarinai-meaning/,あまり～ない,N4
+https://jlptsensei.com/learn-japanese-grammar/%e6%a1%88%e3%81%ae%e5%ae%9a-%e3%81%82%e3%82%93%e3%81%ae%e3%81%98%e3%82%87%e3%81%86-an-no-jou-meaning/,案の定（あんのじょう）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%82%89%e3%81%8b%e3%81%98%e3%82%81-arakajime-meaning/,あらかじめ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%82%8b%e3%81%84%e3%81%af-aruiwa-meaning/,あるいは,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%be%8c%e3%81%a7-%e3%81%82%e3%81%a8%e3%81%a7-ato-de-meaning/,後で（あとで）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%a3%e3%81%a6%e3%81%ae-atte-no-meaning/,あっての,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%90%88%e3%81%86-%e3%81%82%e3%81%86-au-meaning/,合う（あう）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0-ba-conditional-form-meaning/,ば,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%84%e3%81%84-ba-ii-meaning/,ばいい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%93%e3%81%9d-ba-koso-meaning/,ばこそ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%9d%e3%82%8c%e3%81%be%e3%81%a7%e3%81%a0-%e3%81%9f%e3%82%89%e3%81%9d%e3%82%8c%e3%81%be%e3%81%a7%e3%81%a0-ba-sore-made-da-meaning/,ばそれまでだ / たらそれまでだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f-ba-yokatta-meaning/,ばよかった,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%ef%bd%9e%e3%81%bb%e3%81%a9-ba-hodo-meaning/,ば～ほど,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%ef%bd%9e%e3%81%ae%e3%81%ab-ba-noni-meaning/,ば～のに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%a0%b4%e5%90%88%e3%81%af-baai-wa-meaning/,場合は（ばあいは）,N4
+https://jlptsensei.com/learn-japanese-grammar/n2-%e3%81%b0%e3%81%8b%e3%82%8a-bakari-meaning/,ばかり,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a-bakari-meaning/,ばかり,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a0-bakari-da-meaning/,ばかりだ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7-bakari-de-meaning/,ばかりで,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7%e3%81%aa%e3%81%8f-bakari-denaku-meaning/,ばかりでなく,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b-bakari-ka-meaning/,ばかりか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-bakari-ni-meaning/,ばかりに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8b%e3%82%89%e3%81%9a-%e3%81%b9%e3%81%8b%e3%82%89%e3%81%96%e3%82%8b-bekarazu-bekarazaru-meaning/,べからず / べからざる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8d%e3%81%a0-beki-da-meaning/,べきだ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-beki-dewa-nai-meaning/,べきではない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8f-beku-meaning/,べく,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8f%e3%82%82%e3%81%aa%e3%81%84-beku-mo-nai-meaning/,べくもない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8f%e3%81%97%e3%81%a6-beku-shite-meaning/,べくして,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%88%a5%e3%81%ab%ef%bd%9e%e3%81%aa%e3%81%84-betsu-ni-nai-meaning/,別に～ない（べつに～ない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b6%e3%82%8a-%e3%81%a3%e3%81%b7%e3%82%8a-buri-ppuri-meaning/,ぶり / っぷり,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b6%e3%82%8a%e3%81%ab-buri-ni-meaning/,ぶりに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame/,ちゃいけない・じゃいけない,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%81%aa%e3%81%bf%e3%81%ab-chinamini-meaning/,ちなみに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%81%a3%e3%81%a8%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-chitto-monai-meaning/,ちっとも～ない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%ad-chuu-juu-meaning/,中（ちゅう）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning/,だ・です,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91-dake-meaning/,だけ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91-dake-meaning-as-much-as/,だけ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6-dake-atte-meaning/,だけあって,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%a7-dake-de-meaning/,だけで,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%a7%e3%81%aa%e3%81%8f-dake-de-naku-meaning/,だけでなく,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%be%e3%81%97%e3%81%a0-dake-mashi-da-meaning/,だけましだ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%ab-dake-ni-meaning/,だけに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%ae%e3%81%93%e3%81%a8%e3%81%af%e3%81%82%e3%82%8b-dake-no-koto-wa-aru-meaning/,だけのことはある,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%af-dake-wa-meaning/,だけは,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%a9-dakedo-meaning/,だけど,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%ab-%e3%81%a0%e3%81%ab%e3%81%97%e3%81%aa%e3%81%84-dani-shinai-meaning/,だに / だにしない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%ae%ef%bd%9e%e3%81%a0%e3%81%ae-dano-dano-meaning/,だの～だの,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%82%89%e3%81%91-darake-meaning/,だらけ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%82%8d%e3%81%86-darou-meaning/,だろう,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%82%8d%e3%81%86%e3%81%ab-darou-ni-meaning/,だろうに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%87%ba%e3%81%99-dasu-meaning/,出す（だす）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%a3%e3%81%a6-datte-meaning/,だって,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7-de-particle-meaning/,で,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%82%e3%82%8c-%e3%81%a7%e3%81%82%e3%82%8d%e3%81%86%e3%81%a8-de-are-de-arou-meaning/,であれ / であろうと,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%82%e3%82%8c%ef%bd%9e%e3%81%a7%e3%81%82%e3%82%8c-de-are-de-are-meaning/,であれ～であれ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-de-gozaimasu-meaning/,でございます,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84-de-shika-nai-meaning/,でしかない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82-demo-meaning-something/,でも,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82-demo-meaning/,でも ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82%e3%81%82%e3%82%8a%ef%bd%9e%e3%81%a7%e3%82%82%e3%81%82%e3%82%8b-demo-ari-demo-aru-meaning/,でもあり～でもある,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82%e4%bd%95%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84-%e3%81%8f%e3%82%82%e4%bd%95%e3%81%a8%e3%82%82%e3%81%aa%e3%81%84-demo-nan-demo-nai-meaning/,でも何でもない / くも何ともない（でもなんでもない / くもなんともない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%aa%e3%82%93%e3%81%a0%e3%82%8d%e3%81%86-denakute-nan-darou-meaning/,でなくてなんだろう,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%97%e3%82%87%e3%81%86-deshou-meaning/,でしょう,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%af%e3%81%82%e3%82%8b%e3%81%be%e3%81%84%e3%81%8b-dewa-arumai-ka-meaning/,ではあるまいか,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%af%e3%81%82%e3%82%8b%e3%81%be%e3%81%84%e3%81%97-dewa-arumai-shi-meaning/,ではあるまいし,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b-dewa-nai-ka-meaning/,ではないか,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%af%e6%b8%88%e3%81%be%e3%81%aa%e3%81%84-dewa-sumanai-meaning/,では済まない（ではすまない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%93%e3%82%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dokoro-dewa-nai-meaning/,どころではない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%93%e3%82%8d%e3%81%8b-dokoro-ka-meaning/,どころか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%82%93%e3%81%aa-donna-meaning/,どんな,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%82%93%e3%81%aa%e3%81%ab%ef%bd%9e%e3%81%a6%e3%82%82-donna-ni-temo-meaning/,どんなに～ても,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%ab%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-dou-nimo-nai-meaning/,どうにも～ない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%82%84%e3%82%89-dou-yara-meaning/,どうやら,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%9b-douse-meaning/,どうせ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6-doushite-meaning/,どうして,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6%e3%82%82-doushitemo-meaning/,どうしても,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6-douyatte-meaning/,どうやって,N5
+https://jlptsensei.com/learn-japanese-grammar/%e5%be%97%e3%81%aa%e3%81%84-%e3%81%88%e3%81%aa%e3%81%84-enai-meaning/,得ない（えない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%be%97%e3%82%8b-%e3%81%88%e3%82%8b-%e3%81%86%e3%82%8b-eru-uru-meaning/,得る（える / うる）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b5%e3%82%8a%e3%82%92%e3%81%99%e3%82%8b-furi-o-suru-meaning/,ふりをする,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%86%8d%e3%81%b3-%e3%81%b5%e3%81%9f%e3%81%9f%e3%81%b3-futatabi-meaning/,再び（ふたたび）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b5%e3%81%a8-futo-meaning/,ふと,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%b5%e3%81%86%e3%81%ab-fuu-ni-meaning/,ふうに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c-ga-subject-marker-particle/,が,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99-ga-arimasu-%e3%81%8c%e3%81%82%e3%82%8b-ga-aru-meaning/,があります,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e6%97%a9%e3%81%84%e3%81%8b-ga-hayai-ka-meaning/,が早いか（がはやいか）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e5%bf%85%e8%a6%81-ga-hitsuyou-meaning/,が必要（がひつよう）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84-ga-hoshii-%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%84-meaning/,がほしい,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%84%e3%81%be%e3%81%99-ga-imasu-%e3%81%8c%e3%81%84%e3%82%8b-ga-iru-meaning/,がいます,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%a7-ga-kikkake-de-%e3%82%92%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%ab-o-kikkake-ni-meaning/,がきっかけで / をきっかけに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%99%e3%82%8b-ga-suru-meaning/,がする,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c-%e3%82%82%ef%bd%9e%e3%81%aa%e3%82%89%ef%bd%9e%e3%82%82%ef%bd%9e%e3%81%a0-ga-mo-nara-mo-da-meaning/,が/も～なら、～も～だ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%a1-gachi-meaning/,がち,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%be%e3%81%97%e3%81%84-gamashii-meaning/,がましい,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%82%8a-gari-meaning/,がり,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%82%8b-garu-%e3%81%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-gatteiru-meaning/,がる・がっている,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%9f%e3%81%84-gatai-meaning/,がたい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%a6%e3%82%89-gatera-meaning/,がてら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%92-ge-meaning/,げ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%b0%97%e5%91%b3-%e3%81%8e%e3%81%bf-gimi-meaning/,気味（ぎみ）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%94%e3%81%a8%e3%81%ab-goto-ni-meaning/,ごとに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%94%e3%81%a8%e3%81%8d-%e3%81%94%e3%81%a8%e3%81%8f-%e3%81%94%e3%81%a8%e3%81%97-gotoki-gotoku-gotoshi-meaning/,ごとき / ごとく / ごとし,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-gozaimasu-meaning/,ございます,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%90%e3%82%8b%e3%81%bf-gurumi-meaning/,ぐるみ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e9%80%86%e3%81%ab-gyaku-ni-meaning/,逆に（ぎゃくに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%a7%8b%e3%82%81%e3%82%8b-hajimeru-%e5%a7%8b%e3%82%81%e3%81%9f-meaning/,始める（はじめる）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e7%be%bd%e7%9b%ae%e3%81%ab%e3%81%aa%e3%82%8b-%e3%81%af%e3%82%81%e3%81%ab%e3%81%aa%e3%82%8b-hame-ni-naru-meaning/,羽目になる（はめになる）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%8f%8d%e9%9d%a2-%e3%81%af%e3%82%93%e3%82%81%e3%82%93-hanmen-meaning/,反面（はんめん）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%9e%9c%e3%81%9f%e3%81%97%e3%81%a6-%e3%81%af%e3%81%9f%e3%81%97%e3%81%a6-hatashite-meaning/,果たして（はたして）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%9a%e3%81%a0-hazu-da-meaning/,はずだ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%9a%e3%81%8c%e3%81%aa%e3%81%84-hazu-ga-nai-meaning/,はずがない,N4
+https://jlptsensei.com/learn-japanese-grammar/%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b-hitsuyou-ga-aru-meaning/,必要がある（ひつようがある）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e7%a8%8b-%e3%81%bb%e3%81%a9-hodo-meaning/,ほど,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%bb%e3%81%a9%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-hodo-no-koto-dewa-nai-meaning/,ほどのことではない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%bb%e3%81%a9%ef%bd%9e%e3%81%aa%e3%81%84-hodo-nai-meaning/,ほど～ない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84-hou-ga-ii-meaning/,ほうがいい,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%bb%e3%81%86%e3%81%8c%e3%81%be%e3%81%97%e3%81%a0-hou-ga-mashi-da-meaning/,ほうがましだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e6%94%be%e9%a1%8c-%e3%81%bb%e3%81%86%e3%81%a0%e3%81%84-houdai-meaning/,放題（ほうだい）,N1
+https://jlptsensei.com/learn-japanese-grammar/japanese-%e3%81%84-adjectives-%e3%81%84%e5%bd%a2%e5%ae%b9%e8%a9%9e-meaning/,い-adjectives,N5
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%95%aa-%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-ichiban-meaning/,一番（いちばん）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e5%ba%a6%e3%81%ab-ichido-ni-meaning/,一度に（いちどに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e5%bf%9c-ichiou-meaning/,一応（いちおう）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%bb%a5%e5%a4%96%e3%81%ae-igai-no-meaning/,以外（いがい）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%bb%a5%e4%b8%8a%e3%81%ab-%e3%81%84%e3%81%98%e3%82%87%e3%81%86%e3%81%ab-ijou-ni-meaning/,以上に（いじょうに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%bb%a5%e4%b8%8a%e3%81%af-ijou-wa-meaning/,以上は（いじょうは）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%8b%e3%82%93%e3%81%a0-%e3%81%84%e3%81%8b%e3%82%93%e3%81%a7%e3%81%af-%e3%81%84%e3%81%8b%e3%82%93%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af-ikan-dewa-meaning/,いかんだ / いかんでは / いかんによっては,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%8b%e3%82%93%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a-%e3%81%84%e3%81%8b%e3%82%93%e3%81%ab%e3%82%88%e3%82%89%e3%81%9a-ikan-ni-kakawarazu-meaning/,いかんにかかわらず / いかんによらず / いかんをとわず,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%a6%82%e4%bd%95%e3%81%aa%e3%82%8b-%e3%81%84%e3%81%8b%e3%81%aa%e3%82%8b-ikanaru-meaning/,いかなる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%a6%82%e4%bd%95%e3%81%ab-%e3%81%84%e3%81%8b%e3%81%ab-ikani-meaning/,いかに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%a6%82%e4%bd%95%e3%81%ab%e3%82%82-%e3%81%84%e3%81%8b%e3%81%ab%e3%82%82-ikani-mo-meaning/,いかにも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%8d%e3%81%aa%e3%82%8a-ikinari-meaning/,いきなり,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e6%b0%97%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%8d%e3%81%ab-ikki-ni-meaning/,一気に（いっきに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%84%8f%e5%90%91%e5%bd%a2-ikou-kei-volitional-form-meaning/,意向形 （いこうけい）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%8f%e3%82%89%ef%bd%9e%e3%81%a6%e3%82%82-ikura-temo-meaning/,いくら～ても,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e6%96%b9%e3%81%a0-ippou-da-meaning/,一方だ（いっぽうだ）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e6%96%b9%e3%81%a7-ippou-de-meaning/,一方で（いっぽうで）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b-irassharu-meaning/,いらっしゃる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%b7%92%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%97%e3%82%87%e3%81%ab-issho-ni-meaning/,一緒に（いっしょに）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99-itashimasu-meaning/,いたします,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%a4%e3%82%82-itsumo-meaning/,いつも,N5
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e4%bd%93-%e3%81%84%e3%81%a3%e3%81%9f%e3%81%84-ittai-meaning/,一体（いったい）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%82%8f%e3%82%86%e3%82%8b-iwayuru-meaning/,いわゆる,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%82%88%e3%81%84%e3%82%88-iyoiyo-meaning/,いよいよ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%9a%e3%82%8c%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-%e3%81%84%e3%81%9a%e3%82%8c%e3%81%ab%e3%81%9b%e3%82%88-izure-ni-shitemo-meaning/,いずれにしても / いずれにしろ / いずれにせよ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-janai-meaning/,じゃない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-janai-%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dewa-nai-meaning/,じゃない・ではない,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%8b-janai-ka-meaning/,じゃないか,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%81%bf%e3%81%9f-jimita-meaning/,じみた,N1
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%8a-jou-meaning/,上（じょう）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b-ka-question-particle-meaning/,か,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b-ka-dou-ka-meaning/,かどうか,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e5%90%a6%e3%81%8b-%e3%81%8b%e3%81%84%e3%81%aa%e3%81%8b-ka-ina-ka-meaning/,か否か（かいなか）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e4%bd%95%e3%81%8b-ka-nani-ka-meaning/,か何か（かなにか）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab-ka-no-you-ni-meaning/,かのように,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%97%e3%82%89-ka-shira-meaning/,かしら,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%84%e3%81%8d%e3%82%84-%e3%81%8b%e3%81%a8%e3%81%8a%e3%82%82%e3%81%84%e3%81%8d%e3%82%84-to-omoikiya-meaning/,かと思いきや（かとおもいきや）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%9f%e3%82%89-ka-to-omottara-meaning/,かと思ったら（かとおもったら）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%ef%bd%9e%e3%81%8b-ka-ka-or-meaning/,か～か,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%ef%bd%9e%e3%81%aa%e3%81%84%e3%81%8b%e3%81%ae%e3%81%86%e3%81%a1%e3%81%ab-ka-nai-ka-no-uchi-ni-meaning/,か～ないかのうちに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%88%e3%81%a3%e3%81%a6-kaette-meaning/,かえって,N2
+https://jlptsensei.com/learn-japanese-grammar/%e9%99%90%e3%82%8a-kagiri-meaning/,限り（かぎり）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e9%99%90%e3%82%8a%e3%81%a0-kagiri-da-meaning/,限りだ（かぎりだ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%84-kai-meaning/,かい,N4
+https://jlptsensei.com/learn-japanese-grammar/%e7%94%b2%e6%96%90%e3%81%8c%e3%81%82%e3%82%8b-%e3%81%8b%e3%81%84%e3%81%8c%e3%81%82%e3%82%8b-kai-ga-aru-meaning/,甲斐がある（かいがある）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e7%94%b2%e6%96%90%e3%82%82%e3%81%aa%e3%81%8f-%e3%81%8b%e3%81%84%e3%82%82%e3%81%aa%e3%81%8f-kai-mo-naku-meaning/,甲斐もなく（かいもなく）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%91%e3%82%8b-kakeru-meaning/,かける,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84-kamo-shirenai-meaning/,かもしれない,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%aa-kana-meaning/,かな,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%ad%e3%81%aa%e3%81%84-kanenai-meaning/,かねない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%ad%e3%82%8b-%e3%81%8b%e3%81%ad%e3%81%be%e3%81%99-kaneru-kanemasu-meaning/,かねる,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%8f%af%e8%83%bd%e6%80%a7%e3%81%8c%e3%81%82%e3%82%8b-%e3%81%8b%e3%81%ae%e3%81%86%e3%81%9b%e3%81%84%e3%81%8c%e3%81%82%e3%82%8b-kanousei-ga-aru-meaning/,可能性がある（かのうせいがある）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89-kara-meaning/,から,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%81%82%e3%82%8b-kara-aru-%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b-kara-suru-%e3%81%8b%e3%82%89%e3%81%ae-kara-no-meaning/,からある / からする / からの,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e8%a8%80%e3%81%86%e3%81%a8-kara-iu-to-meaning/,から言うと（からいうと）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%81%93%e3%81%9d-kara-koso-meaning/,からこそ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e8%a6%8b%e3%82%8b%e3%81%a8-kara-miru-to-meaning/,から見ると（からみると）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%81%ab%e3%81%af-kara-niwa-meaning/,からには,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%81%97%e3%81%a6-kara-shite-meaning/,からして,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%81%99%e3%82%8b%e3%81%a8-%e3%81%8b%e3%82%89%e3%81%99%e3%82%8c%e3%81%b0-kara-suru-to-kara-sureba-meaning/,からすると / からすれば,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6-kara-to-itte-meaning/,からと言って（からといって）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e4%bd%9c%e3%82%8b-%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b-kara-tsukuru-meaning/,から作る（からつくる）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e3%80%9c%e3%81%ab%e3%81%8b%e3%81%91%e3%81%a6-kara-ni-kakete-meaning/,から〜にかけて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%8c%ef%bd%9e%e3%81%8b%e3%82%8c-kare-kare-meaning/,かれ～かれ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning/,方（かた）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%9f%e3%81%8c%e3%81%9f-katagata-meaning/,かたがた,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%9f%e3%82%8f%e3%82%89-katawara-meaning/,かたわら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%a4%e3%81%a6-katsute-meaning/,かつて,N1
+https://jlptsensei.com/learn-japanese-grammar/%e4%bb%a3%e3%82%8f%e3%82%8a%e3%81%ab-%e3%81%8b%e3%82%8f%e3%82%8a%e3%81%ab-kawari-ni-meaning/,代わりに（かわりに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%81%a9-kedo-meaning/,けど,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e7%b5%90%e6%9e%9c-ta-kekka-meaning/,結果（けっか）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e7%b5%90%e5%b1%80%e3%81%af-kekkyoku-wa-meaning/,結局（けっきょく）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82-keredo-mo-meaning/,けれども,N5
+https://jlptsensei.com/learn-japanese-grammar/%e6%b1%ba%e3%81%97%e3%81%a6%ef%bd%9e%e3%81%aa%e3%81%84-kesshite-nai-meaning/,決して～ない（けっして～ない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%ab%8c%e3%81%84%e3%81%8c%e3%81%82%e3%82%8b-%e3%81%8d%e3%82%89%e3%81%84%e3%81%8c%e3%81%82%e3%82%8b-kirai-ga-aru-meaning/,嫌いがある（きらいがある）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%88%87%e3%82%8c%e3%81%aa%e3%81%84-kirenai-meaning/,切れない（きれない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8d%e3%82%8a-kiri-meaning/,きり,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%88%87%e3%82%8a%e3%81%8c%e3%81%aa%e3%81%84-%e3%81%8d%e3%82%8a%e3%81%8c%e3%81%aa%e3%81%84-kiri-ga-nai-meaning/,切りがない（きりがない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e5%88%87%e3%82%8b-kiru-meaning/,切る（きる）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8d%e3%81%a3%e3%81%a6%e3%81%ae-kitte-no-meaning/,きっての,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8d%e3%81%a3%e3%81%a8-kitto-meaning/,きっと,N4
+https://jlptsensei.com/learn-japanese-grammar/%e6%a5%b5%e3%81%be%e3%82%8b-%e6%a5%b5%e3%81%be%e3%82%8a%e3%81%aa%e3%81%84-kiwamaru-kiwamarinai-meaning/,極まりない（きわまる / きわまりない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%91-kke-meaning/,っけ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%93%e3%81%aa%e3%81%84-kkonai-meaning/,っこない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e8%be%bc%e3%82%80-%e3%81%93%e3%82%80-komu-meaning/,込む（こむ）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e9%a0%83-%e3%81%93%e3%82%8d-%e3%81%94%e3%82%8d-meaning/,頃（ころ / ごろ）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%9d-koso-meaning/,こそ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%9d%e3%81%82%e3%82%8c-koso-are-meaning/,こそあれ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%9d%e3%81%99%e3%82%8c-koso-sure-meaning/,こそすれ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%9d%ef%bd%9e%e3%81%8c%ef%bd%9e%e3%81%91%e3%82%8c%e3%81%a9-koso-ga-keredo-meaning/,こそ「～が・けれど」,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8-koto-meaning-must-do/,こと,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8-koto-meaning/,こと,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%a0-koto-da-meaning/,ことだ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%a0%e3%81%8b%e3%82%89-koto-dakara-meaning/,ことだから,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-koto-ga-aru-meaning/,ことがある,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b-koto-ga-dekiru-%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b-meaning/,ことができる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e6%82%89%e3%81%8f-%e3%81%93%e3%81%a8%e3%81%94%e3%81%a8%e3%81%8f-koto-gotoku-meaning/,ことごとく,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%8b-koto-ka-meaning/,ことか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%8b%e3%82%89-koto-kara-meaning/,ことから,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%93%e3%81%ae%e4%b8%8a%e3%81%aa%e3%81%84-%e3%81%93%e3%81%ae%e4%b8%8a%e3%81%aa%e3%81%84-%e3%81%93%e3%81%ae%e4%b8%8a%e3%81%aa%e3%81%8f-koto-no-ue-naku-meaning/,ことこの上ない / この上ない / この上なく（ことこのうえない / このうえない / このうえなく）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%82%82%e3%81%82%e3%81%a3%e3%81%a6-koto-mo-atte-meaning/,こともあって,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8f-koto-naku-meaning/,ことなく,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%aa%e3%81%97%e3%81%ab-koto-nashi-ni-meaning/,ことなしに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab-koto-ni-meaning/,ことに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8b-koto-ni-naru-meaning/,ことになる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-koto-ni-natteiru-meaning/,ことになっている,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%82%8b-koto-ni-suru-meaning/,ことにする,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-koto-niwa-naranai-meaning/,ことにはならない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ae%e3%81%aa%e3%81%84%e3%82%88%e3%81%86%e3%81%ab-koto-no-nai-you-ni-meaning/,ことのないように,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%a8%e3%81%a6-koto-tote-meaning/,こととて,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84-koto-wa-nai/,ことはない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%af%ef%bd%9e%e3%81%8c-koto-waga-meaning/,ことは～が,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%84-adjective-%e3%81%8f%e3%81%99%e3%82%8b-ku-suru-meaning/,くする,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8f%e3%82%89%e3%81%84-kurai-%e3%81%90%e3%82%89%e3%81%84-gurai-meaning/,くらい・ぐらい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8f%e3%82%89%e3%81%84%e3%81%aa%e3%82%89-kurai-nara-meaning/,くらいなら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8f%e3%82%89%e3%81%84%e3%81%ae%e3%82%82%e3%81%ae%e3%81%a0-%e3%81%90%e3%82%89%e3%81%84%e3%81%ae%e3%82%82%e3%81%ae%e3%81%a0-kurai-no-mono-da-meaning/,くらいのものだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8f%e3%81%9b%e3%81%ab-kuse-ni-meaning/,くせに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8f%e3%81%9b%e3%81%97%e3%81%a6-kuse-shite-meaning/,くせして,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%80%a5%e3%81%ab-kyuu-ni-meaning/,急に（きゅうに）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0-mada-meaning/,まだ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0%ef%bd%9e%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93-mada-te-imasen-meaning/,まだ～ていません,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%89%e3%81%be%e3%81%a0%e3%81%97%e3%82%82-nara-madashimo-meaning/,まだしも,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7-made-meaning/,まで,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7%e3%81%a0-%e3%81%be%e3%81%a7%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a0-made-da-made-no-koto-da-meaning/,までだ / までのことだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84-%e3%81%be%e3%81%a7%e3%82%82%e3%81%aa%e3%81%8f-made-mo-nai-made-mo-naku-meaning/,までもない / までもなく,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7%e3%81%ab-made-ni-meaning/,までに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e5%89%8d%e3%81%ab-%e3%81%be%e3%81%88%e3%81%ab-mae-ni-meaning/,前に（まえに）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%84-mai-meaning/,まい,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%98%e3%81%8d-majiki-meaning/,まじき,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%8f%e3%82%8b-%e3%81%be%e3%81%8f%e3%81%a3%e3%81%a6-makuru-makutte-meaning/,まくる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%be-mama-meaning/,まま,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%be%e3%81%ab-mama-ni-meaning/,ままに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%bf%e3%82%8c-mamire-meaning/,まみれ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%82%8b%e3%81%a7-maru-de-meaning/,まるで,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%b8%e3%81%a3%e3%81%8d%e3%82%8a-%e3%81%be%e3%82%8b%e3%81%a3%e3%81%8d%e3%82%8a-marukkiri-meaning/,まるっきり,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%95%e3%81%8b-masaka-meaning/,まさか,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-masen-ka-meaning/,ませんか,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86-mashou-meaning/,ましょう,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-mashouka-meaning/,ましょうか,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%9f%e3%81%af-matawa-meaning/,または,N4
+https://jlptsensei.com/learn-japanese-grammar/%e5%85%a8%e3%81%8f%ef%bd%9e%e3%81%aa%e3%81%84-mattakunai-meaning/,全く～ない（まったく～ない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%81%e3%81%8f-meku-meaning/,めく,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%81%e3%81%a3%e3%81%9f%e3%81%ab%ef%bd%9e%e3%81%aa%e3%81%84-metta-ni-nai-meaning/,めったに～ない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%bf%e3%81%9f%e3%81%84%e3%81%a0-mitai-da-meaning/,みたいだ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%bf%e3%81%9f%e3%81%84%e3%81%aa-mitai-na-meaning/,みたいな,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%bf%e3%81%9f%e3%81%84%e3%81%ab-mitai-ni-meaning/,みたいに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82-mo-meaning-as-many-as/,も,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82-mo-particle-meaning/,も,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e5%90%8c%e7%84%b6%e3%81%a0-mo-douzen-da-meaning/,も同然だ（もどうぜんだ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e6%a7%8b%e3%82%8f%e3%81%9a-%e3%82%82%e3%81%8b%e3%81%be%e3%82%8f%e3%81%9a-mo-kamawazu-meaning/,もかまわず,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%95%e3%82%8b%e3%81%93%e3%81%a8%e3%81%aa%e3%81%8c%e3%82%89-mo-saru-koto-nagara-meaning/,もさることながら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%97%e3%81%aa%e3%81%84%e3%81%a7-mo-shinai-de-meaning/,もしないで,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e5%bd%93%e7%84%b6%e3%81%a0-mo-touzen-da-meaning/,も当然だ（もとうぜんだ）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%ef%bd%9e%e3%81%b0%ef%bd%9e%e3%82%82-mobamo-meaning/,も～ば～も,N3
+https://jlptsensei.com/learn-japanese-grammar/%e6%9c%80%e6%97%a9-%e3%82%82%e3%81%af%e3%82%84-mohaya-meaning/,もはや,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae-mono-%e3%82%82%e3%82%93-mon-meaning/,もの / もん,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%a0-%e3%82%82%e3%81%ae%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-mono-da-mono-janai-meaning/,ものだ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%a0%e3%81%8b%e3%82%89-mono-dakara-meaning/,ものだから,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-mono-dewa-nai-meaning/,ものではない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%8c%e3%81%82%e3%82%8b-mono-ga-aru-meaning/,ものがある,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%8b-%e3%82%82%e3%82%93%e3%81%8b-mono-ka-mon-ka-meaning/,ものか / もんか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%aa%e3%82%89-mono-nara-meaning/,ものなら,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%82%92-mono-o-meaning/,ものを,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%a8%e6%80%9d%e3%82%8f%e3%82%8c%e3%82%8b-%e3%82%82%e3%81%ae%e3%81%a8%e8%a6%8b%e3%82%89%e3%82%8c%e3%82%8b-mono-to-omowareru-meaning/,ものと思われる / ものと見られる（ものとおもわれる / ものとみられる）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%a8%e3%81%99%e3%82%8b-mono-to-suru-meaning/,ものとする,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%a8%e3%81%97%e3%81%a6-mono-toshite-meaning/,ものとして,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%ae-monono-meaning/,ものの,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%97%e3%81%8b%e3%81%97%e3%81%9f%e3%82%89-moshika-shitara-%e3%82%82%e3%81%97%e3%81%8b%e3%81%99%e3%82%8b%e3%81%a8-meaning/,もしかしたら,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%97%e3%82%82%e3%80%9c%e3%81%9f%e3%82%89-moshimo-tara-meaning/,もしも〜たら,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%a3%e3%81%a8%e3%82%82-motto-mo-meaning/,もっとも,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%86-mou-meaning/,もう,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%86%e5%b0%91%e3%81%97%e3%81%a7-mou-sukoshi-de-meaning/,もう少しで（もうすこしで）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%90%91%e3%81%91-muke-meaning/,向け（むけ）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%90%91%e3%81%8d-muki-meaning/,向き（むき）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%80%e3%81%97%e3%82%8d-mushiro-meaning/,むしろ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%93%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-n-bakari-ni-meaning/,んばかりに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%93%e3%81%8c%e3%81%9f%e3%82%81%e3%81%ab-n-ga-tame-ni-meaning/,んがために,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa-na-meaning-order-dont-do/,な,N4
+https://jlptsensei.com/learn-japanese-grammar/japanese-%e3%81%aa-adjectives-%e3%81%aa%e5%bd%a2%e5%ae%b9%e8%a9%9e-meaning/,な-adjectives,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%82-naa-sentence-ending-particle-meaning/,なあ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%a9-nado-meaning/,など,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8c%e3%82%89-nagara-meaning/,ながら,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8c%e3%82%89%e3%82%82-nagara-mo-meaning/,ながらも,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8c%e3%82%89%e3%81%ab-%e3%81%aa%e3%81%8c%e3%82%89%e3%81%ae-nagara-ni-nagara-no-meaning/,ながらに / ながらの,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7%e3%81%af%e3%81%84%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84-nai-dewa-irarenai-meaning/,ないではいられない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab%e3%81%af%ef%bd%9e%e3%81%aa%e3%81%84-nai-koto-niwanai-meaning/,ないことには～ない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84-nai-koto-wa-nai-meaning/,ないことはない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%be%e3%81%a7%e3%82%82-nai-made-mo-meaning/,ないまでも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae%e3%81%a7%e3%82%82%e3%81%aa%e3%81%84-nai-mono-demo-nai-meaning/,ないものでもない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae%e3%81%8b-%e3%81%aa%e3%81%84%e3%82%82%e3%81%ae%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b-nai-mono-ka-meaning/,ないものか / ないものだろうか,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a8%e3%82%82%e9%99%90%e3%82%89%e3%81%aa%e3%81%84-nai-tomo-kagiranai-meaning/,ないとも限らない（ないともかぎらない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning/,ないで,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-naide-kudasai-meaning/,ないでください,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a8-naito-meaning/,ないと,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-naito-ikenai-meaning/,ないといけない,N5
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%ad%e3%82%92-%e4%b8%ad%e3%81%a7%e3%81%af-naka-o-naka-dewa-meaning/,中を / 中では（なかを / なかでは）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8b%e3%81%aa%e3%81%8b-nakanaka-meaning/,なかなか,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8b%e3%81%aa%e3%81%8b%ef%bd%9e%e3%81%aa%e3%81%84-nakanaka-nai-meaning/,なかなか～ない,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-nakereba-ikenai-meaning/,なければいけない,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%91%e3%82%8c%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-nakereba-naranai-meaning/,なければならない,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%82%e3%81%84%e3%81%84-naku-temo-ii-meaning/,なくてもいい,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%af%e3%81%aa%e3%81%84-naku-wa-nai-meaning/,なくはない / なくもない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a1%e3%82%83-%e3%83%80%e3%83%a1-nakucha-dame-meaning/,なくちゃ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%97%e3%81%a6%e3%81%af-nakushite-wa-meaning/,なくしては,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e6%b8%88%e3%82%80-nakute-sumu-meaning/,なくて済む（なくてすむ）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-nakute-wa-ikenai-meaning/,なくてはいけない,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-nakute-wa-naranai-meaning/,なくてはならない,N5
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%a6%e3%81%bf-%e3%81%aa%e3%81%bf-nami-meaning/,並み（なみ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%ab%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-nanimonai-meaning/,何も～ない（なにも～ない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%bd%95%e3%81%97%e3%82%8d-%e3%81%aa%e3%81%ab%e3%81%97%e3%82%8d-nani-shiro-meaning/,何しろ（なにしろ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%93%e3%81%8b-nanka-%e3%81%aa%e3%82%93%e3%81%a8-nante-%e3%81%aa%e3%81%a9-nado-meaning/,なんか / なんて / など,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8a-nao-meaning/,なお,N2
+https://jlptsensei.com/learn-japanese-grammar/%e7%9b%b4%e3%81%99-%e3%81%aa%e3%81%8a%e3%81%99-naosu-meaning/,直す（なおす）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%89-nara-meaning/,なら,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%89%e3%81%a7%e3%81%af-nara-dewa-meaning/,ならでは,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%89%e3%81%84%e3%81%96%e3%81%97%e3%82%89%e3%81%9a-%e3%81%af%e3%81%84%e3%81%96%e3%81%97%e3%82%89%e3%81%9a-nara-iza-shirazu-meaning/,ならいざしらず / はいざしらず,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8a-nari-meaning/,なり,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8a%e3%81%ab-%e3%81%aa%e3%82%8a%e3%81%ae-nari-ni-nari-no-meaning/,なりに / なりの,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8a%e3%81%a8%e3%82%82-nari-tomo-meaning/,なりとも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8a%ef%bd%9e%e3%81%aa%e3%82%8a-narinari-meaning/,なり～なり,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8b-naru-meaning/,なる,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8b%e3%81%b9%e3%81%8f-naru-beku-meaning/,なるべく,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%95%e3%81%84-nasai-meaning/,なさい,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%95%e3%82%8b-nasaru-%e3%81%aa%e3%81%95%e3%81%84%e3%81%be%e3%81%99-meaning/,なさる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%97%e3%81%ab-%e3%81%aa%e3%81%97%e3%81%a7-nashi-ni-nashi-de-meaning/,なしに / なしで,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%9c%e3%81%aa%e3%82%89-nazenara-meaning/,なぜなら,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%93%e3%81%a0%e3%81%a3%e3%81%a6-n-datte-tte-meaning/,んだって,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%93%e3%81%a7%e3%81%99-ndesu-%e3%82%93%e3%81%a0-nda-meaning/,んです,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ad-ne-particle-meaning/,ね,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ad%e3%81%b0%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-neba-naranai-meaning/,ねばならない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-ni-destination-particle-meaning/,に,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%80%a4%e3%81%99%e3%82%8b-%e3%81%ab%e3%81%82%e3%81%9f%e3%81%84%e3%81%99%e3%82%8b-ni-atai-suru-meaning/,に値する（にあたいする）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%82%e3%81%9f%e3%81%a3%e3%81%a6-ni-atatte-meaning/,にあたって,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%82%e3%81%a3%e3%81%a6-ni-atte-meaning/,にあって,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84-ni-chigai-nai-meaning/,に違いない（にちがいない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%8f%8d%e3%81%97%e3%81%a6-ni-hanshite-meaning/,に反して（にはんして）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%bc%95%e3%81%8d%e6%8f%9b%e3%81%88-%e3%81%ab%e3%81%b2%e3%81%8d%e3%81%8b%e3%81%88-ni-hikikae-meaning/,に引き換え（にひきかえ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%bb%e3%81%8b%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-ni-hoka-naranai-meaning/,にほかならない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%ab%e3%81%84%e3%81%8f-ni-iku-meaning/,にいく,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%87%b3%e3%82%8b-%e3%81%ab%e8%87%b3%e3%81%a3%e3%81%9f-%e3%81%84%e3%81%9f%e3%82%8b-%e3%81%84%e3%81%9f%e3%81%a3%e3%81%9f-ni-itaru-ni-itatta-meaning/,に至る / に至った（にいたる / にいたった）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%87%b3%e3%82%8b%e3%81%be%e3%81%a7-%e3%81%ab%e3%81%84%e3%81%9f%e3%82%8b%e3%81%be%e3%81%a7-ni-itaru-made-meaning/,に至るまで（にいたるまで）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%a8%80%e3%82%8f%e3%81%9b%e3%82%8c%e3%81%b0-ni-iwasereba-meaning/,に言わせれば,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%99%90%e3%82%89%e3%81%9a-ni-kagirazu-meaning/,に限らず（にかぎらず）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%99%90%e3%82%8b-ni-kagiru-meaning/,に限る（にかぎる）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%99%90%e3%81%a3%e3%81%9f%e3%81%93%e3%81%a8%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-ni-kagitta-koto-de-wa-nai-meaning/,に限ったことではない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%99%90%e3%81%a3%e3%81%a6-ni-kagitte-meaning/,に限って（にかぎって）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8b%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-ni-kakatteiru-meaning/,にかかっている,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a-ni-kakawarazu-meaning/,に関わらず（にかかわらず）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%96%a2%e3%82%8f%e3%82%8b-%e3%81%ab%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%8b-ni-kakawaru-meaning/,に関わる（にかかわる）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8b%e3%81%91%e3%81%a6-ni-kakete-meaning/,にかけて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8b%e3%81%93%e3%81%a4%e3%81%91%e3%81%a6-ni-kako-tsukete-meaning/,にかこつけて,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8b%e3%81%be%e3%81%91%e3%81%a6-ni-kamakete-meaning/,にかまけて,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b-%e3%81%ab%e9%96%a2%e3%81%97%e3%81%a6-ni-kan-suru-ni-kan-shite-meaning/,に関する / に関して（にかんする / にかんして）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%9b%a3%e3%81%8f%e3%81%aa%e3%81%84-%e3%81%ab%e3%81%8b%e3%81%9f%e3%81%8f%e3%81%aa%e3%81%84-ni-katakunai-meaning/,に難くない（にかたくない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8b%e3%82%8f%e3%81%a3%e3%81%a6-ni-kawatte-%e3%81%ab%e3%81%8b%e3%82%8f%e3%82%8a-ni-kawari-meaning/,にかわって / にかわり,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e6%b0%97%e3%81%8c%e3%81%a4%e3%81%8f-ni-ki-ga-tsuku-meaning/,に気がつく（にきがつく）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e6%b1%ba%e3%81%be%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-ni-kimatte-iru-meaning/,に決まっている（にきまっている）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%b6%8a%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%af%e3%81%aa%e3%81%84-ni-koshita-koto-wa-nai-meaning/,に越したことはない（にこしたことはない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%bf%9c%e3%81%88%e3%81%a6-ni-kotaete-meaning/,に応えて（にこたえて）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6-ni-kurabete-meaning/,に比べて（にくらべて）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%8a%a0%e3%81%88%e3%81%a6-ni-kuwaete-meaning/,に加えて（にくわえて）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%be%e3%81%a4%e3%82%8f%e3%82%8b-ni-matsuwaru-meaning/,にまつわる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%bf%e3%81%88%e3%82%8b-%e3%81%ab%e8%a6%8b%e3%81%88%e3%82%8b-ni-mieru-meaning/,にみえる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%84%e3%81%a6-ni-motozuite-meaning/,に基づいて（にもとづいて）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%90%91%e3%81%8b%e3%81%a3%e3%81%a6-ni-mukatte-meaning/,に向かって（にむかって）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e6%85%a3%e3%82%8c%e3%82%8b-%e3%81%ab%e3%81%aa%e3%82%8c%e3%82%8b-ni-nareru-meaning/,に慣れる（になれる）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%89%87%e3%81%a3%e3%81%a6-%e3%81%ab%e3%81%ae%e3%81%a3%e3%81%a8%e3%81%a3%e3%81%a6-ni-nottotte-meaning/,に則って（にのっとって）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8a%e3%81%84%e3%81%a6-ni-oite-%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b-ni-okeru-meaning/,において / における,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6-ni-oujite-meaning/,に応じて（におうじて）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%9a%9b%e3%81%97%e3%81%a6-ni-saishite-meaning/,に際して（にさいして）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%85%88%e7%ab%8b%e3%81%a1-ni-sakidachi-meaning/,に先立ち（にさきだち）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%85%88%e9%a7%86%e3%81%91%e3%81%a6-%e3%81%ab%e3%81%95%e3%81%8d%e3%81%8c%e3%81%91%e3%81%a6-ni-sakigakete-meaning/,に先駆けて（にさきがけて）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%9b%e3%82%88-%e3%81%ab%e3%81%97%e3%82%8d-ni-seyo-ni-shiro-meaning/,にせよ/ にしろ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%82%8d%ef%bd%9e%e3%81%ab%e3%81%97%e3%82%8d-%e3%81%ab%e3%81%9b%e3%82%88-ni-shiro-ni-shiro-ni-seyo-meaning/,にしろ～にしろ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6-%e3%81%ab%e3%81%97%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-ni-shitatte-meaning/,にしたところで / としたところで,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%9f%e3%81%8c%e3%81%a3%e3%81%a6-ni-shitagatte-meaning/,にしたがって,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%9f%e3%82%89-%e3%81%ab%e3%81%99%e3%82%8c%e3%81%b0-ni-shitara-ni-sureba-meaning/, にしたら / にすれば,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%a6-ni-shite-meaning/,にして,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-ni-shite-mo-meaning/,にしても,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af-ni-shite-wa-meaning/,にしては,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82%ef%bd%9e%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-ni-shitemoni-shitemo-meaning/,にしても～にしても,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e6%b2%bf%e3%81%a3%e3%81%a6-%e3%81%ab%e3%81%9d%e3%81%a3%e3%81%a6-ni-sotte-meaning/,に沿って（にそって）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e7%9b%b8%e9%81%95%e3%81%aa%e3%81%84-ni-soui-nai-meaning/,に相違ない（にそういない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%81%8e%e3%81%8e%e3%81%aa%e3%81%84-ni-suginai-meaning/,に過ぎない（にすぎない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa-adjective-%e3%81%ab%e3%81%99%e3%82%8b-ni-suru-meaning/,にする,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%99%e3%82%8b-ni-suru-meaning/,にする,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%80%90%e3%81%88%e3%82%8b-%e3%81%ab%e8%80%90%e3%81%88%e3%81%aa%e3%81%84-%e3%81%ab%e3%81%9f%e3%81%88%e3%82%8b-%e3%81%ab%e3%81%9f%e3%81%88%e3%81%aa%e3%81%84-ni-taeru-ni-taenai-meaning/,に耐える / に耐えない（にたえる / にたえない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%af%be%e3%81%97%e3%81%a6-%e3%81%ab%e3%81%9f%e3%81%84%e3%81%97%e3%81%a6-ni-taishite-meaning/,に対して（にたいして）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%b6%b3%e3%82%89%e3%81%aa%e3%81%84-%e3%81%ab%e8%b6%b3%e3%82%8a%e3%81%aa%e3%81%84-ni-taranai-ni-tarinai-meaning/,に足らない / に足りない（にたらない / にたりない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e8%b6%b3%e3%82%8b-%e3%81%ab%e8%b6%b3%e3%82%8a%e3%82%8b-ni-taru-ni-tariru-meaning/,に足る / に足りる（にたる / にたりる）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e7%85%a7%e3%82%89%e3%81%97%e3%81%a6-%e3%81%ab%e3%81%a6%e3%82%89%e3%81%97%e3%81%a6-ni-terashite-meaning/,に照らして（にてらして）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a8%e3%81%a9%e3%81%be%e3%82%89%e3%81%9a-ni-todomarazu-meaning/,にとどまらず,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e4%bc%b4%e3%81%a3%e3%81%a6-ni-tomonatte-meaning/,に伴って（にともなって）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6-ni-totte-meaning/,にとって,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-ni-tsuite-meaning/,について,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%81%91%e3%81%a6-ni-tsuke-te-meaning/,につけ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%81%8d-ni-tsuki-meaning/,につき,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%82%8c%e3%81%a6-ni-tsurete-%e3%81%ab%e3%81%a4%e3%82%8c-ni-tsure-meaning/,につれて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%af-ni-wa-meaning/,には,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%af%e7%84%a1%e7%90%86%e3%81%8c%e3%81%82%e3%82%8b-%e3%81%ab%e3%81%af%e3%82%80%e3%82%8a%e3%81%8c%e3%81%82%e3%82%8b-ni-wa-muri-ga-aru-meaning/,には無理がある（にはむりがある）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%8f%e3%81%9f%e3%81%a3%e3%81%a6-ni-watatte-meaning/,にわたって,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%88%e3%82%89%e3%81%9a-ni-yorazu-meaning/,によらず,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%88%e3%82%8b%e3%81%a8-%e3%81%ab%e3%82%88%e3%82%8c%e3%81%b0-ni-yoru-to-ni-yoreba-meaning/,によると /によれば,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6-%e3%81%ab%e3%82%88%e3%82%8b-ni-yotte-ni-yoru-meaning/,によって / による ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-%e3%81%b8-ni-e-directional-particle-meaning/,に/へ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%ef%bd%9e%e3%82%92%e9%87%8d%e3%81%ad%e3%81%a6-ni-o-kasanete-meaning/,に～を重ねて（に～をかさねて）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%8f%e3%81%84-nikui-meaning/,にくい,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%82%e7%a8%8b%e3%81%8c%e3%81%82%e3%82%8b-%e3%81%ab%e3%82%82%e3%81%bb%e3%81%a9%e3%81%8c%e3%81%82%e3%82%8b-nimo-hodo-ga-aru-meaning/,にもほどがある,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%82%e9%96%a2%e3%82%8f%e3%82%89%e3%81%9a-%e3%81%ab%e3%82%82%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a-nimo-kakawarazu-meaning/,にも関わらず（にもかかわらず）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%82%e5%a2%97%e3%81%97%e3%81%a6-%e3%81%ab%e3%82%82%e3%81%be%e3%81%97%e3%81%a6-nimo-mashite-meaning/,にも増して（にもまして）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a6-nite-meaning/,にて,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%af%e5%bd%93%e3%81%9f%e3%82%89%e3%81%aa%e3%81%84-%e3%81%ab%e3%81%af%e3%81%82%e3%81%9f%e3%82%89%e3%81%aa%e3%81%84-niwa-ataranai-meaning/,には当たらない（にはあたらない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae-no-possessive-particle-meaning/,の,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-no-deshou-ka-meaning/,のでしょうか,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7%e3%81%99-no-desu-%e3%81%ae%e3%81%a0-noda-meaning/,のです,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e4%b8%8b%e6%89%8b-%e3%81%ae%e3%81%8c%e3%81%b8%e3%81%9f-no-ga-heta-meaning/,のが下手（のがへた）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e4%b8%8a%e6%89%8b-no-ga-jouzu-%e3%81%ae%e3%81%8c%e3%81%98%e3%82%87%e3%81%86%e3%81%9a%e3%81%a7%e3%81%99-meaning/,のが上手（のがじょうず）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e5%a5%bd%e3%81%8d-no-ga-suki-%e3%81%ae%e3%81%8c%e3%81%99%e3%81%8d%e3%81%a7%e3%81%99-meaning/,のが好き（のがすき）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e8%87%b3%e3%82%8a-%e3%81%ae%e3%81%84%e3%81%9f%e3%82%8a-no-itari-meaning/,の至り（のいたり）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e6%a5%b5%e3%81%bf-no-kiwami-meaning/,の極み（のきわみ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%82%82%e3%82%82%e3%81%a3%e3%81%a8%e3%82%82%e3%81%a0-no-mo-motto-mo-da-meaning/,のももっともだ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e4%b8%8b%e3%81%a7-%e3%81%ae%e3%82%82%e3%81%a8%e3%81%a7-no-moto-de-meaning/,の下で（のもとで）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e4%b8%ad%e3%81%a7-no-naka-de-meaning/,の中で（のなかで）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e4%b8%ad%e3%81%a7%e3%81%8c%e4%b8%80%e7%95%aa-%e3%81%ae%e3%81%aa%e3%81%8b%e3%81%a7%e3%81%8c%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-no-naka-de-ga-ichiban-meaning/,の中で[A]が一番（のなかで[A]がいちばん）,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%aa%e3%82%93%e3%81%ae%e3%81%a3%e3%81%a6-no-nan-notte-meaning/,のなんのって,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e4%b8%8a%e3%81%a7%e3%81%af-no-ue-de-wa-meaning/,の上では（のうえでは）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%82%84%e3%82%89-%e3%82%82%e3%81%ae%e3%82%84%e3%82%89-%e3%81%93%e3%81%a8%e3%82%84%e3%82%89-no-yara-mono-yara-koto-yara-meaning/,のやら / ものやら / ことやら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%82%84%e3%82%89%ef%bd%9e%e3%81%ae%e3%82%84%e3%82%89-no-yara-no-yara/,のやら～のやら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7-node-meaning/,ので,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%bf-nomi-meaning/,のみ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%bf%e3%81%aa%e3%82%89%e3%81%9a-nominarazu-meaning/,のみならず,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%ab-noni-meaning-even-though/,のに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%ab-noni-meaning-to-do/,のに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%af%e3%80%9c%e3%81%a0-nowa-da-meaning/,のは〜だ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%ac-nu-negative-verb-meaning/,ぬ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%8a%9c%e3%81%8d%e3%81%ab%e3%81%97%e3%81%a6-%e6%8a%9c%e3%81%8d%e3%81%a7-nuki-ni-shite-nuki-de-meaning/,抜きにして / 抜きで（ぬきにして/ ぬきで）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%8a%9c%e3%81%8f-nuku-meaning/,抜く（ぬく）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%be%a1-%e3%81%8a-%e3%81%94-o-go-polite-marker-particle-meaning/,お / ご,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92-wo-object-marker-meaning/,を,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e4%b8%ad%e5%bf%83%e3%81%ab-o-chuushin-ni-meaning/,を中心に（をちゅうしんに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e8%b8%8f%e3%81%be%e3%81%88%e3%81%a6-%e3%82%92%e3%81%b5%e3%81%be%e3%81%88%e3%81%a6-o-fumaete-meaning/,を踏まえて（をふまえて）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%81%af%e3%81%98%e3%82%81%e3%81%a8%e3%81%99%e3%82%8b-o-hajime-to-suru-meaning/,をはじめ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e6%8e%a7%e3%81%88%e3%81%a6-%e3%82%92%e3%81%b2%e3%81%8b%e3%81%88%e3%81%a6-o-hikaete-meaning/,を控えて（をひかえて）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%81%84%e3%81%84%e3%81%93%e3%81%a8%e3%81%ab-o-ii-koto-ni-meaning/,をいいことに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e9%a1%a7%e3%81%bf%e3%81%9a-%e3%82%82%e9%a1%a7%e3%81%bf%e3%81%9a-%e3%82%92%e3%81%8b%e3%81%88%e3%82%8a%e3%81%bf%e3%81%9a-mo-kaerimizu-meaning/,を顧みず / も顧みず（をかえりみず / もかえりみず）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e9%99%90%e3%82%8a%e3%81%ab-o-kagiri-ni-meaning/,を限りに（をかぎりに）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e5%85%bc%e3%81%ad%e3%81%a6-%e3%82%92%e3%81%8b%e3%81%ad%e3%81%a6-o-kanete-meaning/,を兼ねて（をかねて）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e7%9a%ae%e5%88%87%e3%82%8a%e3%81%ab-%e3%82%92%e3%81%8b%e3%82%8f%e3%81%8d%e3%82%8a%e3%81%ab-o-kawakiri-ni-meaning/,を皮切りに（をかわきりに）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e5%a5%91%e6%a9%9f%e3%81%ab-o-keiki-ni-meaning/,を契機に（をけいきに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e6%a9%9f%e3%81%ab-%e3%82%92%e3%81%8d%e3%81%ab-o-ki-ni-meaning/,を機に（をきに）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e7%a6%81%e3%81%98%e5%be%97%e3%81%aa%e3%81%84-%e3%82%92%e3%81%8d%e3%82%93%e3%81%98%e3%81%88%e3%81%aa%e3%81%84-o-kinji-enai-meaning/,を禁じ得ない（をきんじえない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e8%be%bc%e3%82%81%e3%81%a6-%e3%82%92%e3%81%93%e3%82%81%e3%81%a6-o-komete-meaning/,を込めて（をこめて）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-o-kudasai-meaning/,をください,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%82%81%e3%81%90%e3%81%a3%e3%81%a6-o-megutte-meaning/,をめぐって,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%82%82%e3%81%ae%e3%81%a8%e3%82%82%e3%81%9b%e3%81%9a%e3%81%ab-o-mono-tomo-sezuni-meaning/,をものともせずに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%82%82%e3%81%a8%e3%81%ab-o-moto-ni-meaning/,をもとに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%82%82%e3%81%a3%e3%81%a6-%e3%82%92%e3%82%82%e3%81%a1%e3%81%be%e3%81%97%e3%81%a6-o-motte-o-mochimashite-meaning/,をもって / をもちまして,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e9%99%a4%e3%81%84%e3%81%a6-o-nozoite-meaning/,を除いて（をのぞいて）,N2
+https://jlptsensei.com/learn-japanese-grammar/jlpt-n1-grammar-%e3%82%92%e3%81%8a%e3%81%84%e3%81%a6%ef%bd%9e%e3%81%aa%e3%81%84-o-oitenai-meaning/,をおいて～ない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e6%8a%bc%e3%81%97%e3%81%a6-%e3%82%92%e6%8a%bc%e3%81%97%e5%88%87%e3%81%a3%e3%81%a6-%e3%82%92%e3%81%8a%e3%81%97%e3%81%8d%e3%81%a3%e3%81%a6-o-oshite-o-oshikitte-meaning/,を押して / を押し切って（をおして / をおしきって）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e5%a2%83%e3%81%ab%e3%81%97%e3%81%a6-%e3%82%92%e3%81%95%e3%81%8b%e3%81%84%e3%81%ab-o-sakai-ni-meaning/,を境に（をさかいに）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e5%95%8f%e3%82%8f%e3%81%9a-o-towazu-meaning/,を問わず（をとわず）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e9%80%9a%e3%81%98%e3%81%a6-%e3%82%92%e9%80%9a%e3%81%97%e3%81%a6-o-tsuujite-o-tooshite-meaning/,を通じて /を通して（をつうじて /をとおして）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e4%bd%99%e5%84%80%e3%81%aa%e3%81%8f%e3%81%95%e3%82%8c%e3%82%8b-%e3%82%92%e3%82%88%e3%81%8e%e3%81%aa%e3%81%8f%e3%81%95%e3%82%8c%e3%82%8b-o-yogi-naku-sareru-meaning/,を余儀なくされる（をよぎなくされる）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%82%88%e3%81%9d%e3%81%ab-o-yoso-ni-meaning/,をよそに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e5%89%8d%e6%8f%90%e3%81%a8%e3%81%97%e3%81%a6-o-zentei-toshite-meaning/,を前提として（をぜんていとして）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%ef%bd%9e%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-o-kudasai-meaning/,お～ください,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%ef%bd%9e%e9%a1%98%e3%81%86-o-negau-meaning/,お～願う（お～ねがう）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%ef%bd%9e%e3%81%ab%e3%81%aa%e3%82%8b-o-ni-naru-meaning/,お～になる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%e3%81%8b%e3%81%92%e3%81%a7-okage-de-meaning/,おかげで,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%e3%81%8d%e3%81%ab-oki-ni-meaning/,おきに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%e3%81%be%e3%81%91%e3%81%ab-omake-ni-meaning/,おまけに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%80%9d%e3%81%84%e3%82%92%e3%81%99%e3%82%8b-%e3%81%8a%e3%82%82%e3%81%84%e3%82%92%e3%81%99%e3%82%8b-omoi-o-suru-meaning/,思いをする（おもいをする）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e6%81%90%e3%82%89%e3%81%8f-osoraku-meaning/,恐らく（おそらく）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%81%90%e3%82%8c%e3%81%8c%e3%81%82%e3%82%8b-osore-ga-aru-meaning/,恐れがある（おそれがある）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e7%b5%82%e3%82%8f%e3%82%8b-%e3%81%8a%e3%82%8f%e3%82%8b-owaru-meaning/,終わる（おわる）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e5%8f%8a%e3%81%b3-%e3%81%8a%e3%82%88%e3%81%b3-oyobi-meaning/,及び（および）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%8a%e3%82%88%e3%81%9d-oyoso-meaning/,およそ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%b1%e3%81%aa%e3%81%97-ppanashi-meaning/,っぱなし,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%bd%e3%81%84-ppoi-meaning/,っぽい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%89%e3%82%8c%e3%82%8b-rareru-japanese-potential-form/,られる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%89%e3%81%97%e3%81%84-rashii-meaning/,らしい ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8d%e3%81%8f%e3%81%ab%ef%bd%9e%e3%81%aa%e3%81%84-roku-ni-nai-meaning/,ろくに～ない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95-sa-ending-particle-meaning/,さ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95-sa-meaning/,さ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%88-sae-%e3%81%a7%e3%81%95%e3%81%88%e3%82%82-meaning/,さえ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%88%ef%bd%9e%e3%81%b0-sae-ba-meaning/,さえ～ば,N3
+https://jlptsensei.com/learn-japanese-grammar/%e9%9a%9b%e3%81%ab-sai-ni-meaning/,際に（さいに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e7%9c%9f%e3%81%a3%e6%9c%80%e4%b8%ad%e3%81%ab-%e3%81%be%e3%81%a3%e3%81%95%e3%81%84%e3%81%a1%e3%82%85%e3%81%86%e3%81%ab-saichuu-ni-meaning/,最中に（さいちゅうに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%b9%b8%e3%81%84%e3%81%aa%e3%81%93%e3%81%a8%e3%81%ab-saiwai-na-koto-ni-meaning/,幸いなことに（さいわいなことに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%a3%e3%81%8d-sakki-meaning/,さっき,N4
+https://jlptsensei.com/learn-japanese-grammar/%e7%84%b6%e3%82%82-%e3%81%95%e3%82%82-samo-meaning/,さも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%82%82%e3%81%aa%e3%81%84%e3%81%a8-samonaito-meaning/,さもないと,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%82%89%e3%81%ab-sara-ni-meaning/,さらに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%9b%e3%82%89%e3%82%8c%e3%82%8b-saserareru-meaning-causative-passive-form/,させられる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%9b%e3%82%8b-saseru-causative-form-meaning/,させる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%9b%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-sasete-kudasai-meaning/,させてください,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%99%e3%81%8c%e3%81%ab-sasuga-ni-meaning/,さすが,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%95%e3%81%a6-sate-meaning/,さて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%98%b8-%e3%81%95%e3%81%9e%e3%81%8b%e3%81%97-sazo-kashi-meaning/,さぞ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9b%e3%81%84%e3%81%a7-sei-de-meaning/,せいで,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9b%e3%81%84%e3%81%8b-sei-ka-meaning/,せいか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9b%e3%81%84%e3%81%9c%e3%81%84-seizei-meaning/,せいぜい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9b%e3%81%a3%e3%81%8b%e3%81%8f-sekkaku-meaning/,せっかく,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9b%e3%82%81%e3%81%a6-semete-meaning/,せめて,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%97-shi-meaning/,し,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%b0%e3%82%89%e3%81%8f-shibaraku-meaning/,しばらく,N3
+https://jlptsensei.com/learn-japanese-grammar/%e6%ac%a1%e7%ac%ac-shidai-meaning/,次第（しだい）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%ac%a1%e7%ac%ac%e3%81%a7-shidai-de-meaning/,次第で（しだいで）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e6%ac%a1%e7%ac%ac%e3%81%ab-shidai-ni-meaning/,次第に（しだいに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%8b%e3%82%82-shikamo-meaning/,しかも,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%8b%e3%81%aa%e3%81%84-shika-nai-meaning/,しかない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%8b%e3%81%97-shikashi-meaning/,しかし,N5
+https://jlptsensei.com/learn-japanese-grammar/%e5%a7%8b%e6%9c%ab%e3%81%a0-%e3%81%97%e3%81%be%e3%81%a4%e3%81%a0-shimatsu-da-meaning/,始末だ（しまつだ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%b0%e3%81%8b%e3%82%89-soba-kara-meaning/,そばから,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%b3%e3%82%8c%e3%82%8b-sobireru-meaning/,そびれる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e6%90%8d%e3%81%aa%e3%81%86-%e6%90%8d%e3%81%ad%e3%82%8b-%e6%90%8d%e3%81%98%e3%82%8b-sokonau-sokoneru-sonjiru-meaning/,損なう / 損ねる / 損じる（そこなう / そこねる / そんじる）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%93%e3%81%aa%e3%81%ab-sonnna-ni-meaning/,そんなに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%ae%e7%82%ba-%e3%81%9d%e3%81%ae%e3%81%9f%e3%82%81-sono-tame-meaning/,そのために,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%ae%e4%b8%8a-sono-ue-meaning/,その上（そのうえ）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%a7%e3%82%82-sore-demo-meaning/,それでも ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%8b%e3%82%89-sore-kara-meaning/,それから,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%aa%e3%81%ae%e3%81%ab-sore-na-noni-meaning/,それなのに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%aa%e3%82%89-sore-nara-meaning/,それなら,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%ab-sore-ni-meaning/,それに,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-sore-ni-shitemo-meaning/,それにしても,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%a8%e3%82%82-soretomo-meaning/,それとも,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%97%e3%81%a6-soshite-meaning/,そして,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%86%e3%81%a0-sou-da-i-heard-that/,そうだ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%86%e3%81%a0-sou-da-looks-like/,そうだ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%86%e8%a8%80%e3%81%88%e3%81%b0-sou-ieba-meaning/,そう言えば（そういえば）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%86%e3%82%82%e3%81%aa%e3%81%84-sou-mo-nai-%e3%81%9d%e3%81%86%e3%81%ab%e3%81%aa%e3%81%84-sou-ni-nai-meaning/,そうもない /そうにない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%86%e3%81%ab-%e3%81%9d%e3%81%86%e3%81%aa-sou-ni-sou-na-meaning/,そうに / そうな,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%86%e3%81%99%e3%82%8b%e3%81%a8-sou-suru-to-meaning/,そうすると,N2
+https://jlptsensei.com/learn-japanese-grammar/%e8%a1%93%e3%81%8c%e3%81%aa%e3%81%84-%e3%81%99%e3%81%b9%e3%81%8c%e3%81%aa%e3%81%84-sube-ga-nai-meaning/,術がない（すべがない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%99%e3%81%a7%e3%81%ab-sude-ni-meaning/,すでに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e6%9c%ab%e3%81%ab-ta-sue-ni-meaning/,末に（すえに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%99%e3%81%8e%e3%82%8b-sugiru-%e9%81%8e%e3%81%8e%e3%82%8b-meaning/,すぎる,N5
+https://jlptsensei.com/learn-japanese-grammar/%e5%b0%91%e3%81%97%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-sukoshi-mo-nai-meaning/,少しも～ない（すこしも～ない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%b0%91%e3%81%aa%e3%81%8f%e3%81%a8%e3%82%82-sukunaku-tomo-meaning/,少なくとも（すくなくとも）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%8d%b3%e3%81%a1-%e3%81%99%e3%81%aa%e3%82%8f%e3%81%a1-sunawachi-meaning/,すなわち,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%99%e3%82%89-%e3%81%a7%e3%81%99%e3%82%89-de-sura-meaning/,すら / ですら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e6%95%b0%e9%87%8f-%e3%81%af-suuryou-wa-meaning/,数量 + は（すうりょう + は）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%b0%e3%81%8b%e3%82%8a-ta-bakari-meaning/,たばかり,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-ta-koto-ga-aru-meaning/,たことがある,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%82%8b-%e3%81%9f%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8b-ta-koto-ni-suru-ta-koto-ni-naru-meaning/,たことにする / たことになる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%82%e3%81%ae%e3%81%a0-ta-mono-da-meaning/,たものだ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d-ta-tokoro-meaning/,たところ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-ta-tokoro-de-meaning/,たところで,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a8%e3%81%9f%e3%82%93-ta-totan-meaning/,たとたん,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a4%e3%82%82%e3%82%8a%e3%81%af%e3%81%aa%e3%81%84-ta-tsumori-wa-nai-meaning/,たつもりはない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%b3%e3%81%ab-tabi-ni-meaning/,たびに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a0%ef%bd%9e%e3%81%ae%e3%81%bf%e3%81%a0-tada-nomi-da-meaning/,ただ～のみだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e7%9b%b4%e3%81%a1%e3%81%ab-%e3%81%9f%e3%81%a0%e3%81%a1%e3%81%ab-tadachi-ni-meaning/,直ちに（ただちに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e4%bb%96%e5%8b%95%e8%a9%9e-%e8%87%aa%e5%8b%95%e8%a9%9e-transitive-intransitive-verbs-meaning/,他動詞 & 自動詞（たどうし & じどうし）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%8c%e3%82%8b-tagaru-meaning/,たがる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%84-tai-meaning/,たい,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%be%e3%81%88-tamae-meaning/,たまえ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%81%e3%81%ab-tame-ni-meaning/,ために,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%81%e3%81%97%e3%81%8c%e3%81%aa%e3%81%84-tameshi-ga-nai-meaning/,ためしがない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%89-tara-meaning/,たら,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%89%e3%81%a9%e3%81%86-tara-dou-meaning/,たらどう,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%89%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b-tara-ii-desu-ka-meaning/,たらいいですか,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%89%e6%9c%80%e5%be%8c-%e3%81%9f%e3%81%8c%e6%9c%80%e5%be%8c-%e3%81%9f%e3%82%89%e3%81%95%e3%81%84%e3%81%94-tara-saigo-meaning/,たら最後 / たが最後（たらさいご / たがさいご）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%89%ef%bd%9e%e3%81%9f%e3%81%a7-tara-tade-meaning/,たら～たで,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%8a%e3%81%a8%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-tari-tomo-nai-meaning/,たりとも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%8a%ef%bd%9e%e3%81%9f%e3%82%8a%e3%81%99%e3%82%8b-tari-tari-suru-meaning/,たり～たり,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%8b%e3%82%82%e3%81%ae-%e3%81%9f%e3%82%8b-taru-mono-meaning/,たるもの / たる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e7%a2%ba%e3%81%8b%e3%81%ab-tashika-ni-meaning/,確かに（たしかに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a6-tate-meaning/,たて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a8%e3%81%88%ef%bd%9e%e3%81%a6%e3%82%82-tatoe-temo-meaning/,たとえ～ても,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%be%8b%e3%81%88%e3%81%b0-%e3%81%9f%e3%81%a8%e3%81%88%e3%81%b0-tatoeba-meaning/,例えば（たとえば）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%a3%e3%81%a6-tatte-meaning/,たって,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6-%e3%81%a7-te-de-conjunctive-particle-meaning/,て / で,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%82%e3%81%92%e3%82%8b-te-ageru-%e3%81%a6%e3%81%82%e3%81%92%e3%81%be%e3%81%99-te-agemasu-meaning/,てあげる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%82%e3%82%8b-te-aru-meaning/,てある,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%84%e3%82%8b-te-bakari-iru-meaning/,てばかりいる,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%af%e3%81%84%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84-te-bakari-wa-irarenai-meaning/,てばかりはいられない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%a7%e3%82%82-te-demo-meaning/,てでも,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%94%e3%82%89%e3%82%93-te-goran-meaning/,てごらん,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%98%e3%82%81%e3%81%a6-te-hajimete-meaning/,てはじめて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e6%ac%b2%e3%81%97%e3%81%84-%e3%81%a6%e3%81%bb%e3%81%97%e3%81%84-te-hoshii-meaning/,てほしい,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%81%8f-te-iku-%e3%81%a6%e3%81%84%e3%81%a3%e3%81%9f-te-itta-meaning/,ていく,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e4%bb%a5%e6%9d%a5-te-irai-meaning/,て以来（ていらい）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%82%8b-te-iru-meaning/,ている,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%81%9f-te-ita-meaning/,ていた,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%81%9f%e3%81%a0%e3%81%91%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-te-itadakemasen-ka-meaning/,ていただけませんか,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%81%a6%e3%81%af-te-ite-wa-meaning/,ていては,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8b%e3%82%89-te-kara-meaning/,てから,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8b%e3%82%89%e3%81%a7%e3%81%aa%e3%81%84%e3%81%a8-te-kara-de-nai-to-meaning/,てからでないと ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8b%e3%82%89%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae-te-kara-to-iu-mono-meaning/,てからというもの,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%93%e3%81%9d-te-koso-meaning/,てこそ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-te-kudasai-meaning/,てください,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8f%e3%82%8c%e3%82%8b-te-kureru-%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%9f-te-kureta-meaning/,てくれる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8f%e3%82%8b-te-kuru-%e3%81%a6%e3%81%8d%e3%81%be%e3%81%99-te-kimasu-meaning/,てくる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%be%e3%81%a7-te-made-meaning/,てまで,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%bf%e3%82%8b-te-miru-%e3%81%a6%e3%81%bf%e3%81%9f%e3%81%84-te-mitai-meaning/,てみる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e3%82%89%e3%81%86-te-morau-%e3%81%a6%e3%82%82%e3%82%89%e3%81%84%e3%81%9f%e3%81%84-te-moraitai-meaning/,てもらう,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-te-naranai-meaning/,てならない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8a%e3%81%8f-te-oku-meaning/,ておく,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%97%e3%81%8b%e3%82%8b%e3%81%b9%e3%81%8d%e3%81%a0-te-shikaru-beki-da-meaning/,てしかるべきだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%97%e3%81%be%e3%81%86-te-shimau-%e3%81%a1%e3%82%83%e3%81%86-meaning/,てしまう / ちゃう,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%97%e3%82%87%e3%81%86%e3%81%8c%e3%81%aa%e3%81%84-te-shou-ga-nai-%e3%81%a6%e4%bb%95%e6%96%b9%e3%81%8c%e3%81%aa%e3%81%84-shikata-ga-nai-meaning/,てしょうがない・てしかたがない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%99%e3%81%bf%e3%81%be%e3%81%9b%e3%82%93-te-sumimasen-meaning/,てすみません,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e6%b8%88%e3%82%80-te-sumu-meaning/,て済む（てすむ）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%9f%e3%81%be%e3%82%89%e3%81%aa%e3%81%84-te-tamaranai-meaning/,てたまらない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e5%bd%93%e7%84%b6%e3%81%a0-te-touzen-da-meaning/,て当然だ（てとうぜんだ）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-te-wa-ikenai-meaning/,てはいけない,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84%e3%81%8b%e3%82%89-te-wa-ikenai-kara-meaning/,てはいけないから,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%84%e3%81%be%e3%81%aa%e3%81%84-te-yamanai-meaning/,てやまない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%84%e3%82%8b-te-yaru-meaning/,てやる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f-te-yokatta-meaning/,てよかった,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%82%8b%e5%a0%b4%e5%90%88%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-teiru-baai-janai-meaning/,ている場合じゃない（ているばあいじゃない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%82%8b%e3%81%a8%e3%81%93%e3%82%8d-teiru-tokoro-meaning/,ているところ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e7%9a%84-%e3%81%a6%e3%81%8d-teki-meaning/,的（てき）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e6%89%8b%e5%89%8d-%e3%81%a6%e3%81%be%e3%81%88-temae-meaning/,手前（てまえ）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82-temo-meaning/,ても,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e5%a7%8b%e3%81%be%e3%82%89%e3%81%aa%e3%81%84-temo-hajimaranai-meaning/,ても始まらない（てもはじまらない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b-temo-ii-desu-ka-meaning/,てもいいです,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e3%81%8b%e3%81%be%e3%82%8f%e3%81%aa%e3%81%84-temo-kamawanai-meaning/,ても構わない（てもかまわない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e5%b7%ae%e3%81%97%e6%94%af%e3%81%88%e3%81%aa%e3%81%84-%e3%81%a6%e3%82%82%e3%81%95%e3%81%97%e3%81%a4%e3%81%8b%e3%81%88%e3%81%aa%e3%81%84-temo-sashitsukaenai-meaning/,ても差し支えない（てもさしつかえない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e3%81%97%e3%82%87%e3%81%86%e3%81%8c%e3%81%aa%e3%81%84%e3%83%bb%e3%81%a6%e3%82%82%e4%bb%95%e6%96%b9%e3%81%8c%e3%81%aa%e3%81%84-temo-shou-ga-nai-temo-shikata-ga-nai-meaning/,てもしょうがない / てもしかたがない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af-%e3%81%a7%e3%81%af-tewa-dewa-meaning/,ては / では,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%84%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84-tewa-irarenai-meaning/,てはいられない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-tewa-naranai-meaning/,てはならない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%ef%bd%9e%e3%81%a6%e3%81%af-tewa-tewa-meaning/,ては～ては,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8-to-meaning-whenever/,と,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8-to-particle-meaning/,と,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e7%9b%b8%e3%81%be%e3%81%a3%e3%81%a6-%e3%81%a8%e3%81%82%e3%81%84%e3%81%be%e3%81%a3%e3%81%a6-to-aimatte-meaning/,と相まって（とあいまって）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%82%e3%82%8c%e3%81%b0-to-areba-meaning/,とあれば,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%82%e3%81%a3%e3%81%a6-to-atte-meaning/,とあって,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-to-bakari-ni-meaning/,とばかりに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e5%90%8c%e6%99%82%e3%81%ab-to-douji-ni-meaning/,と同時に（とどうじに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%88%e3%81%a9%e3%82%82-to-ie-domo-meaning/,といえども,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%a8%80%e3%81%88%e3%81%b0-%e3%81%a8%e3%81%84%e3%81%88%e3%81%b0-to-ieba-meaning/,と言えば（といえば）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%84-to-ii-%e3%81%9f%e3%82%89%e3%81%84%e3%81%84-tara-ii-meaning/,といい / たらいい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%84%ef%bd%9e%e3%81%a8%e3%81%84%e3%81%84-to-ii-to-ii-meaning/,といい～といい,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%a3%e3%81%9f-to-itta-meaning/,といった,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%a3%e3%81%9f%e3%82%89%e3%81%aa%e3%81%84-to-ittara-nai-meaning/,といったらない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%a3%e3%81%a6%e3%82%82-to-ittemo-meaning/,といっても,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%a8%80%e3%81%a3%e3%81%a6%e3%82%82%e3%81%84%e3%81%84-to-ittemo-ii-meaning/,と言ってもいい（といってもいい）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86-to-iu-meaning/,という,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%b5%e3%81%86%e3%81%ab-to-iu-fuu-ni-meaning/,というふうに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%8b%ef%bd%9e%e3%81%a8%e3%81%84%e3%81%86%e3%81%8b-to-iu-ka-to-iu-ka-meaning/,というか～というか,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8-to-iu-koto-meaning/,ということ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%a0-to-iu-koto-da-%e3%81%a8%e3%81%ae%e3%81%93%e3%81%a8%e3%81%a0-to-no-koto-da-meaning/,ということだ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%93%e3%81%a8%e3%81%af-to-iu-koto-wa-meaning/,ということは,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae-to-iu-mono-meaning/,というもの,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%a0-to-iu-mono-da-meaning/,というものだ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-to-iu-mono-dewa-nai-meaning/,というものではない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%ae%e3%81%af-to-iu-nowa-meaning/,というのは,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%a8%80%e3%81%86%e3%81%a8-%e3%81%a8%e3%81%84%e3%81%86%e3%81%a8-to-iuto-meaning/,と言うと（というと）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a0-%e3%81%a8%e3%81%84%e3%81%a3%e3%81%9f%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a0-iu-tokoro-da-meaning/,というところだ / といったところだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%82%8f%e3%81%91%e3%81%a0-to-iu-wake-da-%e3%81%a8%e3%81%84%e3%81%86%e3%82%8f%e3%81%91%e3%81%a7%e3%81%99-meaning/,というわけだ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%82%8f%e3%81%91%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-to-iu-wake-dewa-nai-meaning/,というわけではない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%81%86%e3%82%88%e3%82%8a-to-iu-yori-meaning/,というより,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%a8%80%e3%82%8f%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b-to-iwarete-iru-meaning/,と言われている（といわれている）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%84%e3%82%8f%e3%81%9a%ef%bd%9e%e3%81%a8%e3%81%84%e3%82%8f%e3%81%9a-to-iwazu-to-iwazu-meaning/,といわず～といわず,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%80%83%e3%81%88%e3%82%89%e3%82%8c%e3%82%8b-to-kangaerareru-meaning/,と考えられる（とかんがえられる）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%81%9e%e3%81%84%e3%81%9f-%e3%81%a8%e3%81%8d%e3%81%84%e3%81%9f-to-kiita-meaning/,と聞いた（ときいた）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%8d%e3%81%a6%e3%81%84%e3%82%8b-to-kiteiru-meaning/,ときている,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%bf%e3%81%88%e3%81%a6-miete-%e3%81%a8%e3%81%bf%e3%81%88%e3%82%8b-to-mieru-meaning/,とみえる / とみえて,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%bf%e3%82%8b%e3%81%a8-to-miru-to-meaning/,とみると,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e8%a6%8b%e3%82%8b%e3%82%84-%e3%81%a8%e3%81%bf%e3%82%8b%e3%82%84-to-miru-ya-meaning/,と見るや（とみるや）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%aa%e3%82%8b%e3%81%a8-%e3%81%a8%e3%81%aa%e3%82%8c%e3%81%b0-%e3%81%a8%e3%81%aa%e3%81%a3%e3%81%9f%e3%82%89-to-naru-to-nareba-meaning/,となると / となれば,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e6%80%9d%e3%81%86-to-omou-meaning/,と思う（とおもう）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%95%e3%82%8c%e3%82%8b-%e3%81%a8%e3%81%95%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b-to-sareru-meaning/,とされる,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%99%e3%82%8c%e3%81%b0-%e3%81%a8%e3%81%97%e3%81%9f%e3%82%89-%e3%81%a8%e3%81%99%e3%82%8b%e3%81%a8-sureba-shitara-suru-to-meaning/,とすれば・としたら・とすると,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e5%85%b1%e3%81%ab-to-tomo-ni-meaning/,と共に（とともに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e9%80%94%e4%b8%ad%e3%81%a7-%e9%80%94%e4%b8%ad%e3%81%ab-tochuu-de-tochuu-ni-meaning/,途中で/途中に（とちゅうで/とちゅうに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%8b%e3%81%a7-toka-de-meaning/,とか（で）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%8b%ef%bd%9e%e3%81%a8%e3%81%8b-toka-toka-meaning/,とか～とか,N4
+https://jlptsensei.com/learn-japanese-grammar/%e6%99%82-%e3%81%a8%e3%81%8d-toki-meaning/,とき,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%8d%e3%81%9f%e3%82%89-tokitara-meaning/,ときたら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%a3%e3%81%8f%e3%81%ab-tokku-ni-meaning/,とっくに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d-tokoro-meaning/,ところ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a0%e3%81%a3%e3%81%9f-tokoro-datta-meaning/,ところだった,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-tokoro-de-meaning/,ところで,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8c-tokoro-ga-meaning/,ところが,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%81%ab-tokoro-ni-meaning/,ところに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92%e8%a6%8b%e3%82%8b%e3%81%a8-tokoro-o-miru-to-meaning/,ところを見ると（ところをみると）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%82%92-tokoro-o-meaning/,ところを,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82-tomo-meaning/,とも,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82%e3%81%82%e3%82%8d%e3%81%86%e3%82%82%e3%81%ae%e3%81%8c-tomo-arou-mono-ga-meaning/,ともあろうものが,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82%e3%81%aa%e3%81%8f-%e3%81%a8%e3%82%82%e3%81%aa%e3%81%97%e3%81%ab-tomo-naku-meaning/,ともなく / ともなしに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82%e3%81%99%e3%82%8c%e3%81%b0-tomo-sureba-meaning/,ともすれば,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%82%ef%bd%9e%e3%81%a8%e3%82%82-tomo-tomo-meaning/,とも～とも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%8a%e3%82%8a%e3%81%ab-toori-ni-meaning/,とおりに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e9%80%9a%e3%81%99-%e3%81%a8%e3%81%8a%e3%81%99-toosu-meaning/,通す（とおす）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%82%8a%e3%82%8f%e3%81%91-toriwake-meaning/,とりわけ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%97%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c-toshita-koto-ga-meaning/,としたことが,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%97%e3%81%a6-toshite-meaning/,として,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%97%e3%81%a6%e3%82%82-toshitemo-meaning/,としても,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%a6%e3%82%82-totemo-meaning/,とても,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%a6%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-totemo-nai-meaning/,とても～ない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%af-towa-meaning/,とは,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%af%e3%81%84%e3%81%88-towa-ie-meaning/,とはいえ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%af%e9%99%90%e3%82%89%e3%81%aa%e3%81%84-towa-kagiranai-meaning/,とは限らない（とはかぎらない）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%af%e6%af%94%e3%81%b9%e3%82%82%e3%81%ae%e3%81%ab%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-towa-kurabemono-ni-naranai-meaning/,は比べものにならない（とはくらべものにならない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%af%e6%89%93%e3%81%a3%e3%81%a6%e5%a4%89%e3%82%8f%e3%81%a3%e3%81%a6-%e3%81%a8%e3%81%af%e6%89%93%e3%81%a3%e3%81%a6%e5%a4%89%e3%82%8f%e3%82%8a-towa-utte-kawatte-meaning/,とは打って変わって / とは打って変わり（とはうってかわって / とはうってかわり）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%ef%bd%9e%e3%81%a4-tsu-tsu-meaning/,つ～つ ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%81%84-tsui-meaning/,つい,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%81%84%e3%81%ab-tsui-ni-meaning/,ついに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%81%84%e3%81%a7%e3%81%ab-tsuide-ni-meaning/,ついでに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%b0%bd%e3%81%8f%e3%81%99-%e3%81%a4%e3%81%8f%e3%81%99-tsukusu-meaning/,尽くす（つくす）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%81%be%e3%82%8a-tsumari-meaning/,つまり,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%82%82%e3%82%8a-tsumori-meaning/,つもり,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a0%e3%81%a3%e3%81%9f-tsumori-datta-meaning/,つもりだった,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%82%82%e3%82%8a%e3%81%a7-tsumori-de-meaning/,つもりで,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%81%a4-tsutsu-meaning/,つつ,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%81%a4%e3%81%82%e3%82%8b-tsutsu-aru-meaning/,つつある,N2
+https://jlptsensei.com/learn-japanese-grammar/%e7%b6%9a%e3%81%91%e3%82%8b-tsuzukeru-%e7%b6%9a%e3%81%91%e3%81%a6%e3%81%84%e3%82%8b-meaning/,続ける（つづける）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%a6-tte-meaning/,って,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%a6%e3%81%b0-%e3%81%a3%e3%81%9f%e3%82%89-tteba-ttara-meaning/,ってば / ったら,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%86%e3%81%a1%e3%81%ab-uchi-ni-meaning/,うちに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%8a%e3%81%a7-%e3%81%86%e3%81%88%e3%81%a7-ue-de-meaning/,上で（うえで）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%8a%e3%81%ab-ue-ni-meaning/,上に（うえに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%b8%8a%e3%81%af-ue-wa-meaning/,上は（うえは）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e5%8f%97%e8%ba%ab%e5%bd%a2-ukemi-japanese-passive-form/,受身形（うけみけい）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f-wa-particle-meaning/,わ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af-wa-topic-marker-meaning/,は,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%80%9c%e3%82%88%e3%82%8a-%e3%81%a7%e3%81%99-wa-yori-desu-meaning/,は〜より・・・です,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e5%88%a5%e3%81%a8%e3%81%97%e3%81%a6-wa-betsu-toshite-meaning/,は別として（はべつとして）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%a9%e3%81%86%e3%81%a7%e3%81%99%e3%81%8b-wa-dou-desu-ka-meaning/,はどうですか,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%82%82%e3%81%a1%e3%82%8d%e3%82%93-wa-mochiron-meaning/,はもちろん,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%82%82%e3%81%a8%e3%82%88%e3%82%8a-wa-moto-yori-meaning/,はもとより,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%95%e3%81%a6%e3%81%8a%e3%81%8d-wa-sateoki-meaning/,はさておき,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%9d%e3%81%a3%e3%81%a1%e3%81%ae%e3%81%91%e3%81%a7-%e3%82%92%e3%81%9d%e3%81%a3%e3%81%a1%e3%81%ae%e3%81%91%e3%81%a7-wa-socchinoke-de-meaning/,はそっちのけで / をそっちのけで,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%a8%e3%82%82%e3%81%8b%e3%81%8f-wa-tomokaku-meaning/,はともかく,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%ef%bd%9e%e3%81%a7%e6%9c%89%e5%90%8d-wa-de-yuumei-meaning/,は～で有名（は～でゆうめい）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%80%9c%e3%81%8c%ef%bd%9e%e3%81%af-wa-ga-wa-meaning-but-however/,は〜が… は,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%a0-wake-da-meaning/,わけだ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-wake-dewa-nai-%e3%82%8f%e3%81%91%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-wake-janai-meaning/,わけではない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%8c%e3%81%aa%e3%81%84-wake-ga-nai-meaning/,わけがない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%ab%e3%81%af%e3%81%84%e3%81%8b%e3%81%aa%e3%81%84-wake-niwa-ikanai-meaning/,わけにはいかない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e5%89%b2%e3%81%ab-%e3%82%8f%e3%82%8a%e3%81%ab-wari-ni-meaning/,割に（わりに）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%96%e3%81%a8-wazato-meaning/,わざと,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%96%e3%82%8f%e3%81%96-wazawaza-meaning/,わざわざ,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%9a%e3%81%8b%e3%81%ab-wazuka-ni-meaning/,わずかに,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%84-ya-particle-meaning/,や,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%84%e5%90%a6%e3%82%84-ya-ina-ya-meaning/,や否や（やいなや）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%84%e3%81%8c%e3%81%a6-yagate-meaning/,やがて,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%84%e3%82%89%ef%bd%9e%e3%82%84%e3%82%89-yara-yara-meaning/,やら～やら,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%84%e3%81%99%e3%81%84-yasui-meaning/,やすい,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%84%e3%81%a3%e3%81%a8-yatto-meaning/,やっと,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88-yo-ending-particle-meaning/,よ,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%bb%e3%81%a9-%e3%82%88%e3%81%a3%e3%81%bd%e3%81%a9-yohodo-yoppodo-meaning/,よほど / よっぽど,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a-yori-meaning/,より,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a-yori-from-time-place/,より [2],N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a%ef%bd%9e%e3%81%ae%e3%81%bb%e3%81%86%e3%81%8c-yori-no-hou-ga-meaning/,より～ほうが,N5
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a%e3%81%bb%e3%81%8b%e3%81%aa%e3%81%84-yori-hoka-nai-meaning/,よりほかない,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a%e3%82%82-yorimo-meaning/,よりも,N3
+https://jlptsensei.com/learn-japanese-grammar/%e4%ba%88%e5%ae%9a%e3%81%a0-yotei-da-meaning/,予定だ（よていだ）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a0-you-da-meaning/,ようだ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a7%e3%81%af-you-dewa-meaning/,ようでは,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b-you-dewa-nai-ka-meaning/,ようではないか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%8c-%e3%82%88%e3%81%86%e3%81%a8-you-ga-you-to-meaning/,ようが / ようと,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%8c%e3%81%aa%e3%81%84-you-ga-nai-meaning/,ようがない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%8c%ef%bd%9e%e3%82%88%e3%81%86%e3%81%8c-%e3%82%88%e3%81%86%e3%81%a8%ef%bd%9e%e3%82%88%e3%81%86%e3%81%a8-you-ga-you-to-meaning/,ようが～ようが / ようと～ようと,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%8b%ef%bd%9e%e3%81%be%e3%81%84%e3%81%8b-you-ka-mai-ka-meaning/,ようか～まいか,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%aa%e6%b0%97%e3%81%8c%e3%81%99%e3%82%8b-you-na-ki-ga-suru-meaning/,ような気がする（ようなきがする）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab-you-ni-meaning-in-order-to/,ように,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab-%e3%82%88%e3%81%86%e3%81%aa-you-ni-na-meaning/,ように / ような,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab%e8%a6%8b%e3%81%88%e3%82%8b-you-ni-mieru-meaning/,ように見える（ようにみえる）,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8b-you-ni-naru-meaning/,ようになる,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab%e3%81%99%e3%82%8b-you-ni-suru-%e3%82%88%e3%81%86%e3%81%ab%e3%81%97%e3%81%a6%e3%81%84%e3%82%8b-meaning/,ようにする,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab%e3%82%88%e3%81%a3%e3%81%a6%e3%81%af-%e3%82%88%e3%81%86%e3%81%a7%e3%81%af-you-ni-yotte-wa-you-dewa-meaning/,ようによっては / ようでは,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%ab%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-you-nimo-nai-meaning/,ようにも～ない,N1
+https://jlptsensei.com/learn-japanese-grammar/%e8%a6%81%e3%81%99%e3%82%8b%e3%81%ab-%e3%82%88%e3%81%86%e3%81%99%e3%82%8b%e3%81%ab-you-suru-ni-meaning/,要するに（ようするに）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a8%e6%80%9d%e3%81%86-you-to-omou-meaning/,ようと思う（ようとおもう）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a8%e3%81%97%e3%81%aa%e3%81%84-you-to-shinai-meaning/,ようとしない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a8%e3%81%99%e3%82%8b-you-to-suru-meaning/,ようとする,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%81%86%e3%81%a8%ef%bd%9e%e3%81%be%e3%81%84%e3%81%a8-%e3%82%88%e3%81%86%e3%81%8c%ef%bd%9e%e3%81%be%e3%81%84%e3%81%8c-you-to-mai-to-you-ga-mai-ga-meaning/,ようと～まいと / ようが～まいが,N1
+https://jlptsensei.com/learn-japanese-grammar/%e6%95%85%e3%81%ab-%e3%82%86%e3%81%88%e3%81%ab-yue-ni-meaning/,ゆえに,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%96%e3%82%8b%e3%82%92%e5%be%97%e3%81%aa%e3%81%84-zaru-o-enai-meaning/,ざるを得ない（ざるをえない）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9c%e3%81%b2-zehi-meaning/,ぜひ,N4
+https://jlptsensei.com/learn-japanese-grammar/%e5%85%a8%e7%84%b6%ef%bd%9e%e3%81%aa%e3%81%84-zenzen-nai-meaning/,全然～ない（ぜんぜん～ない）,N4
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9e-%e3%81%9c-zo-ze-ending-particle-meaning/,ぞ・ぜ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9a%e3%81%ab%e6%b8%88%e3%82%80-zu-ni-sumu-meaning/,ずに済む （ずにすむ）,N2
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9a%e3%81%ab%e3%81%af%e6%b8%88%e3%81%be%e3%81%aa%e3%81%84-%e3%81%aa%e3%81%84%e3%81%a7%e3%81%af%e6%b8%88%e3%81%be%e3%81%aa%e3%81%84-zu-niwa-sumanai-nai-dewa-sumanai-meaning/,ずには済まない / ないでは済まない（ずにはすまない / ないではすまない）,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9a%e3%81%a8%e3%82%82-zu-tomo-meaning/,ずとも,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9a%e3%81%8f%e3%82%81-zukume-meaning/,ずくめ,N1
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9a%e3%81%ab-zuni-meaning/,ずに,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%9a%e3%81%ab%e3%81%af%e3%81%84%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84-zu-ni-wa-irarenai-meaning/,ずにはいられない,N3
+https://jlptsensei.com/learn-japanese-grammar/%e3%81%a5%e3%82%89%e3%81%84-zurai-meaning/,づらい,N4
+https://jlptsensei.com/learn-japanese-grammar/jlpt-n3-grammar-%e3%81%9a%e3%81%a4-zutsu-meaning/,ずつ,N3
